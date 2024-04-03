@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kPL/n0JbzHp/NKeVxWt4yRzAsb4ot4foIDZCvR+J+pJMwt3KZzfsUv8cxJF1Lh907bfG6d5zSC0FXYZZU4KM3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\12-Unit-Testing-Exercise-Exception-Handling-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
